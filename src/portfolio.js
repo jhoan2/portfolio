@@ -33,7 +33,7 @@ const projects = [
   {
     name: 'Jikan Api',
     description:
-      'Website made with the Jikan Api. The website was made with React and deployed through Netlify. There is continuous integration, and I experimented with end to end testing using cypress and unit testing with jest. You can search up anime and look through your results in pages.',
+      'Website made with the Jikan Api. The website was made with React and deployed through Netlify. There is continuous integration, and I experimented with end to end testing using cypress, unit testing with jest, and React Hooks. You can search up anime and look through your results in pages.',
     stack: ['React'],
     sourceCode: 'https://github.com/jhoan2/jikanapi',
     livePreview: 'https://jikanapi.netlify.app/',
