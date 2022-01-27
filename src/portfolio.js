@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://jhoan2.netlify.app/',
   title: 'JH.',
 }
 
@@ -39,6 +39,14 @@ const projects = [
     sourceCode: 'https://github.com/jhoan2/jikanapi',
     livePreview: 'https://jikanapi.netlify.app/',
   },
+  {
+    name: 'ZeniNFTs',
+    description:
+      'Unique collection of ZeniNFTs modeled after Zenitsu, the Dachshund.',
+    stack: ['Etherjs', 'Solidity', 'React', 'Bootstrap', 'HTML', 'CSS'],
+    sourceCode: 'https://github.com/jhoan2/ZeniNFTs',
+    livePreview: 'https://zeni-nfts.netlify.app/',
+  },
   // {
   //   name: 'Project 3',
   //   description:
@@ -60,6 +68,7 @@ const skills = [
   'Material UI',
   'Git',
   'CI/CD',
+  'Ethersjs',
 ]
 
 const contact = {
