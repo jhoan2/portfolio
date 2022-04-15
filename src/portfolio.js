@@ -47,6 +47,13 @@ const projects = [
     sourceCode: 'https://github.com/jhoan2/web3-blog',
     livePreview: 'https://web3-blog-beta.vercel.app/',
   },
+  {
+    name: 'Deschool',
+    description: 
+      'A decentralized platform to host blogs geared towards learning. Students may mint blog which will show up on OpenSea as proof of completition. Won the prize pool for Web3Con hosted by Developer DAO.',
+    stack: ['Ethersjs', 'Solidity', 'Next.js', 'IPFS', 'Hardhat', 'React'],
+    sourceCode: 'https://github.com/AcademiaDAO/web3-blog',
+  }
   // {
   //   name: 'Project 3',
   //   description:
