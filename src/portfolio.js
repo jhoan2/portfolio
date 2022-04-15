@@ -43,7 +43,7 @@ const projects = [
     name: 'Web3-blog',
     description:
       'A fullstack web3 personal blog. Some features are dark mode, filtering by tags, pagination, and sorting.',
-    stack: ['Ethersjs', 'Solidity', 'Next', 'Graphql', 'The Graph', 'IPFS', 'Hardhat'],
+    stack: ['Solidity', 'Next.js', 'Graphql', 'The Graph', 'IPFS', 'Hardhat'],
     sourceCode: 'https://github.com/jhoan2/web3-blog',
     livePreview: 'https://web3-blog-beta.vercel.app/',
   },
