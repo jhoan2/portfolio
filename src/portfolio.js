@@ -32,20 +32,20 @@ const projects = [
     livePreview: 'http://johnseafood.net/',
   },
   {
-    name: 'Jikan Api',
-    description:
-      'Website made with the Jikan Api. The website was made with React and deployed through Netlify. There is continuous integration, and I experimented with end to end testing using cypress, unit testing with jest, and React Hooks. You can search up anime and look through your results in pages.',
-    stack: ['React'],
-    sourceCode: 'https://github.com/jhoan2/jikanapi',
-    livePreview: 'https://jikanapi.netlify.app/',
-  },
-  {
     name: 'ZeniNFTs',
     description:
       'Unique collection of ZeniNFTs modeled after Zenitsu, the Dachshund. I drew the images on the MediBang app on the ipad and used hashlips art engine to create the unique images. The images were hosted on Pinata, and the frontend used Etherjs to connect to the smart contract, I deployed on Rinkeby with the help of Hardhat.',
-    stack: ['Etherjs', 'Solidity', 'React', 'Bootstrap', 'HTML', 'CSS'],
+    stack: ['Ethersjs', 'Solidity', 'React', 'Bootstrap', 'HTML', 'CSS'],
     sourceCode: 'https://github.com/jhoan2/ZeniNFTs',
     livePreview: 'https://zeni-nfts.netlify.app/',
+  },
+  {
+    name: 'Web3-blog',
+    description:
+      'A fullstack web3 personal blog. Some features are dark mode, filtering by tags, pagination, and sorting.',
+    stack: ['React, Ethersjs, Solidity, Next, Mui, Chai, Graphql, The Graph, IPFS, Hardhat'],
+    sourceCode: 'https://github.com/jhoan2/web3-blog',
+    livePreview: 'https://web3-blog-beta.vercel.app/',
   },
   // {
   //   name: 'Project 3',
