@@ -69,6 +69,11 @@ const skills = [
   'Git',
   'CI/CD',
   'Ethersjs',
+  'IPFS',
+  'The Graph',
+  'Hardhat',
+  'Next.js',
+  'Solidity',
 ]
 
 const contact = {
