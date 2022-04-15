@@ -54,6 +54,7 @@ const projects = [
       'The Graph',
       'IPFS',
       'Hardhat',],
+    
     sourceCode: 'https://github.com/jhoan2/web3-blog',
     livePreview: 'https://web3-blog-beta.vercel.app/',
   },
