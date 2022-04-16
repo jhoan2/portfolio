@@ -50,7 +50,7 @@ const projects = [
   {
     name: 'Deschool',
     description:
-    'A decentralized platform to host blogs geared towards learning. Students may mint blog which will show up on OpenSea as proof of completition. Won the prize pool for Web3Con hosted by Developer DAO.',
+      'A decentralized platform to host blogs geared towards learning. Students may mint blog which will show up on OpenSea as proof of completition. Won the prize pool for Web3Con hosted by Developer DAO. ',
     stack: ['Ethersjs', 'Solidity', 'Next.js', 'IPFS', 'Hardhat', 'React'],
     sourceCode: 'https://github.com/AcademiaDAO/web3-blog',
   },
