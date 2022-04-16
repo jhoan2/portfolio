@@ -53,6 +53,7 @@ const projects = [
       'A decentralized platform to host blogs geared towards learning. Students may mint blog which will show up on OpenSea as proof of completition. Won the prize pool for Web3Con hosted by Developer DAO. ',
     stack: ['Ethersjs', 'Solidity', 'Next.js', 'IPFS', 'Hardhat', 'React'],
     sourceCode: 'https://github.com/AcademiaDAO/web3-blog',
+    livePreview: 'https://twitter.com/developer_dao/status/1515016114601795585',
   },
   // {
   //   name: 'Project 3',
