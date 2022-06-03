@@ -34,7 +34,7 @@ const projects = [
   {
     name: 'ZeniNFTs',
     description:
-      'Unique collection of ZeniNFTs modeled after Zenitsu, the Dachshund. I drew the images on the MediBang app on the ipad and used hashlips art engine to create the unique images. The images were hosted on Pinata, and the frontend used Etherjs to connect to the smart contract, I deployed on Rinkeby with the help of Hardhat.',
+      'Unique collection of ZeniNFTs modeled after Zenitsu, the Dachshund. Drew the images on the MediBang app on the ipad and used hashlips art engine to create the unique images. The images were hosted on Pinata, and the frontend used Ethersjs to connect to the smart contract that was deployed on Rinkeby with the help of Hardhat.',
     stack: ['Ethersjs', 'Solidity', 'React', 'Bootstrap', 'HTML', 'CSS'],
     sourceCode: 'https://github.com/jhoan2/ZeniNFTs',
     livePreview: 'https://zeni-nfts.netlify.app/',
