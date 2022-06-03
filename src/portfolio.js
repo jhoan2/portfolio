@@ -13,7 +13,7 @@ const about = {
   role: 'Full Stack Engineer',
   description: 'Full Stack Engineer with the ability to learn fast',
   resume:
-    'https://docs.google.com/document/d/1S6q3Ukaqw8xJ6RECx6GUhqJnbKCeqFfJZBaYh4Qh6Sc/edit?usp=sharing',
+    'https://drive.google.com/file/d/18F7d24JlBgHQi1UjBeQacaq45FWKJM_e/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/john-hoang-589804184/',
     github: 'https://github.com/jhoan2/',
