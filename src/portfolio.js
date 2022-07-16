@@ -24,12 +24,12 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'John Seafood',
+    name: 'Web3-blog',
     description:
-      'Website for the restaurant John Seafood. The website was made with React and Redux. You can check the total of your order before ordering, but there is no online ordering.',
-    stack: ['React', 'Redux'],
-    sourceCode: 'https://github.com/jhoan2/John-Seafood',
-    livePreview: 'http://johnseafood.net/',
+      'A fullstack web3 personal blog. Features include dark mode, filtering by tags, pagination, and sorting. Smart contract deployed on Mumbai Testnet. Only the owner of the smart contract can create blog posts. ',
+    stack: ['Solidity', 'Next.js', 'Graphql', 'The Graph', 'IPFS', 'Hardhat'],
+    sourceCode: 'https://github.com/jhoan2/web3-blog',
+    livePreview: 'https://web3-blog-beta.vercel.app/',
   },
   {
     name: 'ZeniNFTs',
@@ -40,12 +40,12 @@ const projects = [
     livePreview: 'https://zeni-nfts.netlify.app/',
   },
   {
-    name: 'Web3-blog',
+    name: 'John Seafood',
     description:
-      'A fullstack web3 personal blog. Features include dark mode, filtering by tags, pagination, and sorting. Smart contract deployed on Mumbai Testnet. Only the owner of the smart contract can create blog posts. ',
-    stack: ['Solidity', 'Next.js', 'Graphql', 'The Graph', 'IPFS', 'Hardhat'],
-    sourceCode: 'https://github.com/jhoan2/web3-blog',
-    livePreview: 'https://web3-blog-beta.vercel.app/',
+      'Website for the restaurant John Seafood. The website was made with React and Redux. You can check the total of your order before ordering, but there is no online ordering.',
+    stack: ['React', 'Redux'],
+    sourceCode: 'https://github.com/jhoan2/John-Seafood',
+    livePreview: 'http://johnseafood.net/',
   },
   {
     name: 'Deschool',
